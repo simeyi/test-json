@@ -104,22 +104,7 @@
     "Tplnr" : "PR 20/0058",
     "UnitDescr" : "1 CER",
     "VendorLogin" : false,
-    "VendorName" : "",
-    "LinkedObjSet" : {
-      "__deferred" : {
-        "uri" : "http://saprd21.dcb.defence.gov.au:3276/sap/opu/odata/SAP/ZGIMS_CASE_MGT_SRV/GemsIssueSet('1900000015')/LinkedObjSet"
-      }
-    },
-    "IssueNote" : {
-      "__deferred" : {
-        "uri" : "http://saprd21.dcb.defence.gov.au:3276/sap/opu/odata/SAP/ZGIMS_CASE_MGT_SRV/GemsIssueSet('1900000015')/IssueNote"
-      }
-    },
-    "ChangeLogSet" : {
-      "__deferred" : {
-        "uri" : "http://saprd21.dcb.defence.gov.au:3276/sap/opu/odata/SAP/ZGIMS_CASE_MGT_SRV/GemsIssueSet('1900000015')/ChangeLogSet"
-      }
-    }
+    "VendorName" : ""
   }
 },
   "tableData": {
@@ -229,22 +214,7 @@
         "Tplnr" : "PR 20/0058",
         "UnitDescr" : "1 CER",
         "VendorLogin" : false,
-        "VendorName" : "",
-        "LinkedObjSet" : {
-          "__deferred" : {
-            "uri" : "http://saprd21.dcb.defence.gov.au:3276/sap/opu/odata/SAP/ZGIMS_CASE_MGT_SRV/GemsIssueSet('1900000015')/LinkedObjSet"
-          }
-        },
-        "IssueNote" : {
-          "__deferred" : {
-            "uri" : "http://saprd21.dcb.defence.gov.au:3276/sap/opu/odata/SAP/ZGIMS_CASE_MGT_SRV/GemsIssueSet('1900000015')/IssueNote"
-          }
-        },
-        "ChangeLogSet" : {
-          "__deferred" : {
-            "uri" : "http://saprd21.dcb.defence.gov.au:3276/sap/opu/odata/SAP/ZGIMS_CASE_MGT_SRV/GemsIssueSet('1900000015')/ChangeLogSet"
-          }
-        }
+        "VendorName" : ""
       },
       {
         "__metadata" : {
@@ -350,22 +320,7 @@
         "Tplnr" : "PR 20/0058",
         "UnitDescr" : "1 CER",
         "VendorLogin" : false,
-        "VendorName" : "",
-        "LinkedObjSet" : {
-          "__deferred" : {
-            "uri" : "http://saprd21.dcb.defence.gov.au:3276/sap/opu/odata/SAP/ZGIMS_CASE_MGT_SRV/GemsIssueSet('1900000018')/LinkedObjSet"
-          }
-        },
-        "IssueNote" : {
-          "__deferred" : {
-            "uri" : "http://saprd21.dcb.defence.gov.au:3276/sap/opu/odata/SAP/ZGIMS_CASE_MGT_SRV/GemsIssueSet('1900000018')/IssueNote"
-          }
-        },
-        "ChangeLogSet" : {
-          "__deferred" : {
-            "uri" : "http://saprd21.dcb.defence.gov.au:3276/sap/opu/odata/SAP/ZGIMS_CASE_MGT_SRV/GemsIssueSet('1900000018')/ChangeLogSet"
-          }
-        }
+        "VendorName" : ""
       }
     ]
   }
