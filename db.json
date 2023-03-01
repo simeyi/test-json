@@ -1,11 +1,6 @@
 {
   "singleData": {
   "d" : {
-    "__metadata" : {
-      "id" : "http://saprd21.dcb.defence.gov.au:3276/sap/opu/odata/SAP/ZGIMS_CASE_MGT_SRV/GemsIssueSet('1900000015')",
-      "uri" : "http://saprd21.dcb.defence.gov.au:3276/sap/opu/odata/SAP/ZGIMS_CASE_MGT_SRV/GemsIssueSet('1900000015')",
-      "type" : "ZGIMS_CASE_MGT_SRV.GemsIssue"
-    },
     "Age" : 0,
     "MobileApp" : false,
     "CapabilityImpactDesc" : "",
@@ -111,11 +106,6 @@
   "d" : {
     "results" : [
       {
-        "__metadata" : {
-          "id" : "http://saprd21.dcb.defence.gov.au:3276/sap/opu/odata/SAP/ZGIMS_CASE_MGT_SRV/GemsIssueSet('1900000015')",
-          "uri" : "http://saprd21.dcb.defence.gov.au:3276/sap/opu/odata/SAP/ZGIMS_CASE_MGT_SRV/GemsIssueSet('1900000015')",
-          "type" : "ZGIMS_CASE_MGT_SRV.GemsIssue"
-        },
         "Age" : 136,
         "MobileApp" : false,
         "CapabilityImpactDesc" : "",
@@ -217,11 +207,6 @@
         "VendorName" : ""
       },
       {
-        "__metadata" : {
-          "id" : "http://saprd21.dcb.defence.gov.au:3276/sap/opu/odata/SAP/ZGIMS_CASE_MGT_SRV/GemsIssueSet('1900000018')",
-          "uri" : "http://saprd21.dcb.defence.gov.au:3276/sap/opu/odata/SAP/ZGIMS_CASE_MGT_SRV/GemsIssueSet('1900000018')",
-          "type" : "ZGIMS_CASE_MGT_SRV.GemsIssue"
-        },
         "Age" : 135,
         "MobileApp" : false,
         "CapabilityImpactDesc" : "",
